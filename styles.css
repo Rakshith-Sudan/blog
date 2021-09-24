@@ -1,1 +1,23 @@
- 
+*{
+    margin: 0;
+    background-color: lightblue;
+    
+}
+body{
+    font-family: 'Lucida Sans Unicode';
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+    margin: auto;
+}
+h1, h2{
+    color: blue
+}
+h1{
+    font-size: 50px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
